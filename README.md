@@ -1,6 +1,6 @@
 # Aceh, DOM dan Pelanggaran HAM — EPUB source
 
-Tulisan Munir, Jakarta, 19 April 1999, dibuat dari pindaian PDF (OCR via TurboOCR).
+Tulisan Munir Said Thalib, Jakarta, 19 April 1999, dibuat dari pindaian PDF (OCR via TurboOCR).
 
 ## Build
 

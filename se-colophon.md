@@ -8,11 +8,11 @@ for Standard Ebooks semantics). Optional placeholders, filled from book.json at 
 
 <i epub:type="se:name.publication.book" xml:lang="id">Aceh, DOM dan Pelanggaran HAM</i>  
 oleh  
-<b epub:type="z3998:personal-name">Munir</b>.
+<b epub:type="z3998:personal-name">Munir Said Thalib</b>.
 
 Edisi digital ini disusun oleh  
 **Taratsa**  
-dari hasil digitalisasi [tulisan Munir, Aceh, DOM dan Pelanggaran HAM, Jakarta, 19 April 1999, dari KontraS](https://pustaka.taratsa.id/book/330/)
+dari hasil digitalisasi [tulisan Munir Said Thalib, Aceh, DOM dan Pelanggaran HAM, Jakarta, 19 April 1999, dari KontraS](https://pustaka.taratsa.id/book/330/)
 
 Sampul menggunakan huruf  
 <b epub:type="se:name.visual-art.typeface">League Spartan</b>,  
