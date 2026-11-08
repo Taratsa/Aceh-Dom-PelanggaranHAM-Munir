@@ -21,3 +21,17 @@ section[epub|type~="imprint"]{
 abbr[epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
 }
+
+/* Sign-off of an article: letter footer pattern (manual 7.8) */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+footer p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}

@@ -10,9 +10,6 @@
 		<ignore code="y-002">
 			<reason>Tanda baca diikuti huruf tanpa spasi dari naskah sumber/hasil OCR (mis. 'tugas,maka'); dipertahankan karena pindaian tidak boleh diperiksa dengan penglihatan.</reason>
 		</ignore>
-		<ignore code="y-003">
-			<reason>Paragraf tanpa tanda baca akhir: paragraf terpotong batas halaman pindaian; dipertahankan apa adanya.</reason>
-		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore code="m-056">
