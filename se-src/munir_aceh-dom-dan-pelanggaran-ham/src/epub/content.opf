@@ -22,7 +22,9 @@
 		<dc:subject id="subject-1">Human rights--Indonesia</dc:subject>
 		<dc:subject id="subject-2">Civil-military relations--Indonesia</dc:subject>
 		<dc:subject id="subject-3">Political violence--Indonesia</dc:subject>
-		<dc:subject id="subject-4">Ditulis di Jakarta, 19 April 1999</dc:subject>
+		<dc:subject id="subject-4">Hak asasi manusia</dc:subject>
+		<dc:subject id="subject-5">Hubungan sipil-militer</dc:subject>
+		<dc:subject id="subject-6">Daerah operasi militer</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008105905</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -30,7 +32,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2010107340</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<meta property="schema:abstract">Munir menguraikan penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, hambatan penegakan hukum atas pelanggaran oleh militer, dan jalur penyelesaian lewat mekanisme internasional. Tulisan ini bertanggal Jakarta, 19 April 1999.</meta>
+		<meta property="schema:abstract">Munir menguraikan penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, hambatan penegakan hukum atas pelanggaran oleh militer, dan jalur penyelesaian lewat mekanisme internasional. Ditulis di Jakarta pada 19 April 1999.</meta>
 		<dc:description>
 			&lt;p&gt;Tulisan Munir tentang penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, problem penegakan hukum atas pelanggaran HAM oleh militer, dan mekanisme internasional yang dapat ditempuh. Ditulis di Jakarta pada 19 April 1999.&lt;/p&gt;
 		</dc:description>
