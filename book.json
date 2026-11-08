@@ -94,10 +94,14 @@
       [
         "Political violence--Indonesia",
         "sh2010107340"
+      ],
+      [
+        "Ditulis di Jakarta, 19 April 1999",
+        null
       ]
     ],
-    "abstract": "Munir menguraikan penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, hambatan penegakan hukum atas pelanggaran oleh militer, dan jalur penyelesaian lewat mekanisme internasional.",
-    "description_html": "<p>Tulisan Munir tentang penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, problem penegakan hukum atas pelanggaran HAM oleh militer, dan mekanisme internasional yang dapat ditempuh.</p>",
+    "abstract": "Munir menguraikan penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, hambatan penegakan hukum atas pelanggaran oleh militer, dan jalur penyelesaian lewat mekanisme internasional. Tulisan ini bertanggal Jakarta, 19 April 1999.",
+    "description_html": "<p>Tulisan Munir tentang penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, problem penegakan hukum atas pelanggaran HAM oleh militer, dan mekanisme internasional yang dapat ditempuh. Ditulis di Jakarta pada 19 April 1999.</p>",
     "acronyms": [
       "DOM",
       "ABRI",
@@ -131,7 +135,8 @@
       "Pindaian memuat teks margin yang diputar dan cap perpustakaan di tepi halaman pertama; hasil OCR-nya berupa deretan huruf tak bermakna, sehingga dibuang dari teks. Judul tercetak di kepala halaman pertama sudah menjadi judul buku.",
       "Satu paragraf yang terpotong batas halaman pindaian (halaman 3 ke halaman 4: 'bagian dari' / 'intrumen penegakan hukum') digabung. Kalimat 'satuan organik' / 'DOM, yaitu' yang terpotong batas halaman pada halaman 1 dibiarkan seperti hasil OCR karena sambungannya tidak dapat dipastikan tanpa pindaian.",
       "Ejaan naskah (mis. 'intrumen', 'berekpresi', 'tehnis', 'simbul', 'dipertunjukan') dipertahankan sebagaimana tercetak; hanya salah baca OCR yang jelas diperbaiki, dan setiap perbaikan tercatat di corrections.json. Perbaikan tidak dibandingkan dengan gambar pindaian.",
-      "Tanda baca dan awal paragraf yang tampak janggal bagi se lint berasal dari hasil OCR atau naskah sumber dan tidak diubah; peringatan tinjau-manual didaftarkan di se-lint-ignore.xml dengan alasan masing-masing."
+      "Tanda baca dan awal paragraf yang tampak janggal bagi se lint berasal dari hasil OCR atau naskah sumber dan tidak diubah; peringatan tinjau-manual didaftarkan di se-lint-ignore.xml dengan alasan masing-masing.",
+      "Tanggal penulisan (Jakarta, 19 April 1999) tercetak di akhir naskah; dicantumkan di deskripsi dan sebagai subjek bebas (tanpa otoritas LCSH) pada metadata kedua edisi."
     ],
     "masthead": {
       "sections": []
