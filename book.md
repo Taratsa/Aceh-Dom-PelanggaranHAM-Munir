@@ -36,7 +36,7 @@ Sejauh ini, bentuk tindakan pelanggaran HAM yang paling dominan dilakukan dalam 
 
 - H. Perkosaan.
 
-- I. Pelangaran hak untuk beribadah dan berkeyakinan.
+- I. Pelanggaran hak untuk beribadah dan berkeyakinan.
 
 - J. Hak berekpresi dan mengemukakan pendapat dsb.
 
@@ -44,7 +44,7 @@ Kesemua pelanggaran HAM tersebut, masuk dalam kategori Pelanggaran HAM yang bera
 
 ## Penegakan hukum dan HAM
 
-Kelahiran pengakuan HAM secara hukum adalah produk dari upaya berbagai bangsa untuk mempertemukan hak-hak yang bersifat Universal dan perlu ditentukan dalam bentuk ketentuan hukum. Kemudian lahirlah Deklarasi Universal HAM dan berbagai konvensi HAM. Beberapa produk penting konvensi yang perlu dicatat antara lain Konvensi Hak Sipil dan Politik, dan Konvensi Hak-hak ekonomi dan budaya dst. Ketentuan-ketentuan tersebut hakikatnya mewajibkan setiap negara untuk menjamin dihormatinya hak-hak setiap manusia ("rakyat"). Sehingga, yang disebut pelangaran HAM adalah diingkarinya nilai-nilai HAM oleh negara, ataupun negara membiarkan Hak-hak tersebut dilanggar.
+Kelahiran pengakuan HAM secara hukum adalah produk dari upaya berbagai bangsa untuk mempertemukan hak-hak yang bersifat Universal dan perlu ditentukan dalam bentuk ketentuan hukum. Kemudian lahirlah Deklarasi Universal HAM dan berbagai konvensi HAM. Beberapa produk penting konvensi yang perlu dicatat antara lain Konvensi Hak Sipil dan Politik, dan Konvensi Hak-hak ekonomi dan budaya dst. Ketentuan-ketentuan tersebut hakikatnya mewajibkan setiap negara untuk menjamin dihormatinya hak-hak setiap manusia ("rakyat"). Sehingga, yang disebut pelanggaran HAM adalah diingkarinya nilai-nilai HAM oleh negara, ataupun negara membiarkan Hak-hak tersebut dilanggar.
 
 Hak Sipil dan Politik menempatkan posisi negara secara pasif, artinya berisi ketentuan-ketentuan yang melarang negara untuk melakukan larangan atau hambatan dan tindakan yang mengingkari atau melanggar hak-hak itu. Sedangkan Hak Ekonomi dan Budaya menuntut negara bertindak aktiv, untuk menjamin hak-hak didalamnya dipenuhi.
 
@@ -54,7 +54,7 @@ Dalam sistem negara yang demikian haruslah adanya pengakuan hak-hak berpolitik, 
 
 Pelanggaran HAM bersumber pada tindakan yang tidak sah berdasarkan hukum nasional, dan juga dapat disahkan oleh hukum nasional. Sehingga dalam konteks pembahasan pelanggaran HAM terlebih dahulu harus dipahami adanya realitas terdapat tindakan aparatus negara yang dirasa berdasarkan alasan sah menurut hukum nasional, akan tetapi tetap dipandang sebagai pelanggaran HAM. Mengingat dalam konteks lahirnya berbagai produk hukum yang didasari oleh sebuah rezim anti demokrasi cenderung mengingkari HAM, khususnya Hak Sipil dan Politik. Sumber tindakan pelanggaran tersebut dapat bersumber dari keputusan-keputusan yang bersifat institusional, ataupun pada pribadi-pribadi. Pelanggaran yang dikategorikan sebagai tindakan institusional adalah ketika sebuah tindakan aparat militer dilakukan dalam struktur komando, menggunakan perangkat dan motif institusional, serta memperoleh perlindungan ataupun pembenaran dari kekuatan institusi. Sedangkan tindakan yang bersifat Pribadi (Oknum) adalah tindakan yang dilakukan seorang anggota militer atas motif-motif pribadi, serta secara jujur dipertangungjawabkan diluar proteksi institusi.
 
-Dalam konteks ini, tingkat pertanggungjawaban hukum amatlah ditentukan oleh bentuk dan motif tindakan. Dalam tindakan yang dilakukan oleh seorang anggota militer dalam kerangka menjalankan tugas,maka pertanggungjawaban institusional tidaklah dapat dihindarkan. Mengingat unsur paling penting dari tindakan yang diambil adalah bagian bagi kepentingan tindakan atas fungsi ataupun penempatakan posisi secara institusional. Dalam hal bagian dari aparat melakukan tindakan berlebihan ataupun tidak sesuai dengan tugasnya, secara internal dapat dikategorikan sebagai tindakan pelanggaran prosedural. Akan tetapi, secara hukum tidaklah dikenal bentuk yang demikian, sebab tindakan tersebut tetap terikat kedalam tidak absahnya keputusan insitusi dan motif institusional. Sehingga pertanggungjawaban hukum tetap berada pada institusinya.
+Dalam konteks ini, tingkat pertanggungjawaban hukum amatlah ditentukan oleh bentuk dan motif tindakan. Dalam tindakan yang dilakukan oleh seorang anggota militer dalam kerangka menjalankan tugas,maka pertanggungjawaban institusional tidaklah dapat dihindarkan. Mengingat unsur paling penting dari tindakan yang diambil adalah bagian bagi kepentingan tindakan atas fungsi ataupun penempatakan posisi secara institusional. Dalam hal bagian dari aparat melakukan tindakan berlebihan ataupun tidak sesuai dengan tugasnya, secara internal dapat dikategorikan sebagai tindakan pelanggaran prosedural. Akan tetapi, secara hukum tidaklah dikenal bentuk yang demikian, sebab tindakan tersebut tetap terikat kedalam tidak absahnya keputusan institusi dan motif institusional. Sehingga pertanggungjawaban hukum tetap berada pada institusinya.
 
 Perlu juga menjadi perhatian, aparat militer dapatlah bertindak (sebagai kekuatan paksa) hanya dalam kondisi perang atau darurat perang (ditentukan secara khusus melalui keputusan presiden). Sebagaimana dimaksud dalam Konvensi Hak Sipil dan Politik, Konvensi prinsip-prinsip tentang kekuatan atau senjata api, mensyarakatkan secara ketat bahwa militer tidaklah memiliki kewenangan untuk melakukan tindakan penggunaan paksanaan terhadap warga sipil. Kewenangan itu hanya diberikan kepada kepolisian dan dengan pembatasan yang cukup ketat. Dalam hal ini seluruh tindakan aparatus militer dalam menjalankan mengkontrol kehidupan sipil dengan berbagai tindakan diatas, sama sekali bukanlah dapat dikategorikan sebagai bagian dari intrumen penegakan hukum yang absah,akan tetapi sebuah tindakan pelanggaran HAM. Untuk itu, tindakan tersebut adalah tidak sekedar tindakan para oknum dan kesalahan prosedural.
 
@@ -78,21 +78,21 @@ Paling tidak terdapat beberapa institusi Internasional yang merupakan instrumen 
 
 ### 1. Melalui mekanisme Komisi HAM PBB, ataupun beberapa organisasi di bawah naungan PBB, seperti ILO, UNHCR.
 
-Mekanisme ini berlangsung melalui bentuk-bentuk sanksi sebuah resolusi, ataupun rekomendasi komisi. Putusan kelembagaan ini diperoleh dalam sidang-sidang yang beranggotakan negara-negara. Paling tidak berbagai tekanan internasioanal, akan berlangsung secara relatif efektif, agar tiap negara memenuhi dan menghormati HAM.
+Mekanisme ini berlangsung melalui bentuk-bentuk sanksi sebuah resolusi, ataupun rekomendasi komisi. Putusan kelembagaan ini diperoleh dalam sidang-sidang yang beranggotakan negara-negara. Paling tidak berbagai tekanan internasional, akan berlangsung secara relatif efektif, agar tiap negara memenuhi dan menghormati HAM.
 
-Catatan penting, berbagai persoalan kekerasan sepanjang operasi DOM, belumlah cukup terakomodasi dalam mekanisme diatas. Mengingat informasi tetang korban di Aceh belumlah tersaji berdasarkan standart yang dibutuhkan dalam makanisme kerja komisi HAM.
+Catatan penting, berbagai persoalan kekerasan sepanjang operasi DOM, belumlah cukup terakomodasi dalam mekanisme diatas. Mengingat informasi tentang korban di Aceh belumlah tersaji berdasarkan standart yang dibutuhkan dalam mekanisme kerja komisi HAM.
 
 ### 2. Mahkamah Internasional
 
-Mekanisme yang dapat dilakukan hanyalah melalui klaim salah satu negara anggota. Tidak dikenal presedur non negara untuk mengajukan klaim atas adanya pelanggaran HAM oleh suatu negara. Sehingga, problem pelanggaran HAM dalam DOM dapat diseret ke Mahkamah Internasional, apabila ada salah satu negara mengajukan Pemrintah Indonesia sebagai pelaku pelanggaran HAM.
+Mekanisme yang dapat dilakukan hanyalah melalui klaim salah satu negara anggota. Tidak dikenal prosedur non negara untuk mengajukan klaim atas adanya pelanggaran HAM oleh suatu negara. Sehingga, problem pelanggaran HAM dalam DOM dapat diseret ke Mahkamah Internasional, apabila ada salah satu negara mengajukan Pemerintah Indonesia sebagai pelaku pelanggaran HAM.
 
-Mekanisme lain dapat dilakukan dengan atau atas permintaan Pemerintah RI. Untuk menuntut pelaku, dengan alasan pelaku tidak dapat dituntut di Indonesia atas alasan ketidak mungkinan keamanan nasional. Hal ini jelas membutuhkan kemauan politik Pemerintah Indoensia, yang kemungkinan hampir tidak akan terjadi.
+Mekanisme lain dapat dilakukan dengan atau atas permintaan Pemerintah RI. Untuk menuntut pelaku, dengan alasan pelaku tidak dapat dituntut di Indonesia atas alasan ketidak mungkinan keamanan nasional. Hal ini jelas membutuhkan kemauan politik Pemerintah Indonesia, yang kemungkinan hampir tidak akan terjadi.
 
 ### 3. International Criminal Court (ICC)
 
-Mekanisme yang tersedian berdasarkan konvensi Perancis 1996, tiap individu korban pelanggaran HAM dapat mengajukan gugatan terhadap Pemerintah yang dituduh telah melakukan pelanggaran HAM. Dengan telah memenuhi syara-syarat, misalnya telah dilakukan berbagai langkah-langkah hukum maksimal di dalam negara yang bersangkutan, akan tetapi tetap tidak memungkinkan.
+Mekanisme yang tersedia berdasarkan konvensi Perancis 1996, tiap individu korban pelanggaran HAM dapat mengajukan gugatan terhadap Pemerintah yang dituduh telah melakukan pelanggaran HAM. Dengan telah memenuhi syarat-syarat, misalnya telah dilakukan berbagai langkah-langkah hukum maksimal di dalam negara yang bersangkutan, akan tetapi tetap tidak memungkinkan.
 
-Kelembagaan ini sayangnya masih dalam tahap persiapan, sehingga gugatan tersebut dalam waktu dekat masih akan benyak memperoleh hambatan teknis.
+Kelembagaan ini sayangnya masih dalam tahap persiapan, sehingga gugatan tersebut dalam waktu dekat masih akan banyak memperoleh hambatan teknis.
 
 ### 4. Pelaporan pada negara peratifikasi
 
