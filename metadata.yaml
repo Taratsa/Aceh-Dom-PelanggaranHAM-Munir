@@ -1,0 +1,12 @@
+# EPUB metadata, hand-editable. Any key set here overrides the value generated from book.json.
+# Rebuild with: pipeline.py <book> --steps build,verify,se
+# Pinned so readers keep reading position/annotations across rebuilds. Do not change after publishing.
+identifier: "urn:uuid:5b1d9c52-7a43-4f0e-9d0a-3e8f6a2c71b4"
+title: "Aceh, DOM dan Pelanggaran HAM"
+lang: "id"
+publisher: "Taratsa"
+rights: "Hak cipta atas teks tulisan berada pada penulis dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+producer: "Taratsa"
+creator:
+  - role: "aut"
+    text: "Munir"

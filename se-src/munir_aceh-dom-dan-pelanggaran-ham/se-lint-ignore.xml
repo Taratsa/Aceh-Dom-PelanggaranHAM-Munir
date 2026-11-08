@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore code="s-023">
+			<reason>Judul berbahasa Indonesia; kapitalisasi judul gaya Inggris dari `se titlecase` tidak berlaku.</reason>
+		</ignore>
+		<ignore code="t-065">
+			<reason>Judul bagian berakhir dengan titik karena demikian tercetak di naskah sumber ('Tentang prosedur.', 'Kerangka Media Internasional.'); dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-002">
+			<reason>Tanda baca diikuti huruf tanpa spasi dari naskah sumber/hasil OCR (mis. 'tugas,maka'); dipertahankan karena pindaian tidak boleh diperiksa dengan penglihatan.</reason>
+		</ignore>
+		<ignore code="y-003">
+			<reason>Paragraf tanpa tanda baca akhir: paragraf terpotong batas halaman pindaian; dipertahankan apa adanya.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore code="m-056">
+			<reason>Edisi white-label, bukan rilis Standard Ebooks; tidak ada halaman penulis di standardebooks.org untuk ditautkan.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

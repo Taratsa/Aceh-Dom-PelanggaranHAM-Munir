@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="id">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">munir/aceh-dom-dan-pelanggaran-ham</dc:identifier>
+		<dc:date>2026-11-08T04:00:00Z</dc:date>
+		<meta property="dcterms:modified">2026-11-08T04:00:00Z</meta>
+		<dc:rights>Hak cipta atas teks tulisan berada pada penulis dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
+		<dc:publisher id="publisher">Taratsa</dc:publisher>
+		<meta property="file-as" refines="#publisher">Taratsa</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">displayTransformability</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<dc:title id="title">Aceh, DOM dan Pelanggaran HAM</dc:title>
+		<meta property="file-as" refines="#title">Aceh, DOM dan Pelanggaran HAM</meta>
+		<dc:subject id="subject-1">Human rights--Indonesia</dc:subject>
+		<dc:subject id="subject-2">Civil-military relations--Indonesia</dc:subject>
+		<dc:subject id="subject-3">Political violence--Indonesia</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008105905</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2009120077</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2010107340</meta>
+		<meta property="schema:genre">Nonfiction</meta>
+		<meta property="schema:abstract">Munir menguraikan penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, hambatan penegakan hukum atas pelanggaran oleh militer, dan jalur penyelesaian lewat mekanisme internasional.</meta>
+		<dc:description>
+			&lt;p&gt;Tulisan Munir tentang penetapan Aceh sebagai daerah operasi militer (DOM) sebagai kebijakan politik, bentuk-bentuk pelanggaran HAM selama DOM, problem penegakan hukum atas pelanggaran HAM oleh militer, dan mekanisme internasional yang dapat ditempuh.&lt;/p&gt;
+		</dc:description>
+		<dc:language>id</dc:language>
+		<meta property="schema:wordCount">1946</meta>
+		<dc:creator id="author">Munir</dc:creator>
+		<meta property="file-as" refines="#author">Munir</meta>
+		<meta property="schema:alternateName" refines="#author">Munir Said Thalib</meta>
+		<link href="https://en.wikipedia.org/wiki/Munir_Said_Thalib" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2005002809.html" refines="#author" rel="schema:sameAs"/>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="producer-1">Taratsa</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Taratsa</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="text/aceh-dom-dan-pelanggaran-ham.xhtml" id="aceh-dom-dan-pelanggaran-ham.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="aceh-dom-dan-pelanggaran-ham.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+</package>

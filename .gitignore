@@ -1,0 +1,5 @@
+# raw OCR intermediates (regenerable from the PDF)
+ocr/
+# superseded backup; every change from the OCR baseline is in corrections.json
+book.before-se.md
+.DS_Store
