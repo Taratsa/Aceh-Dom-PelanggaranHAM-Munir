@@ -80,7 +80,7 @@
     "producer": {
       "name": "Taratsa"
     },
-    "source_label": "pindaian PDF tulisan Munir, Jakarta, 19 April 1999",
+    "source_label": "pindaian PDF tulisan Munir, Jakarta, 19 April 1999, dari KontraS",
     "rights": "Hak cipta atas teks tulisan berada pada penulis dan/atau pemegang hak masing-masing. Kontribusi penyuntingan edisi digital ini dilepaskan ke domain publik di bawah CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).",
     "subjects": [
       [
@@ -159,6 +159,10 @@
       "dateline": "Jakarta, 19 April 1999",
       "time_text": "19 April 1999",
       "datetime": "1999-04-19"
-    }
-  }
+    },
+    "sources": [
+      "https://pustaka.taratsa.id/book/10-tulisan-munir-aceh-dom-dan-pelanggaran-ham-unknown/"
+    ]
+  },
+  "source_url": "https://pustaka.taratsa.id/book/10-tulisan-munir-aceh-dom-dan-pelanggaran-ham-unknown/"
 }

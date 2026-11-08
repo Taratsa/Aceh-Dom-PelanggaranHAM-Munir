@@ -12,7 +12,7 @@ oleh
 
 Edisi digital ini disusun oleh  
 **Taratsa**  
-dari pindaian PDF tulisan Munir, Jakarta, 19 April 1999.
+dari hasil digitalisasi [tulisan Munir, Aceh, DOM dan Pelanggaran HAM, Jakarta, 19 April 1999, dari KontraS](https://pustaka.taratsa.id/book/10-tulisan-munir-aceh-dom-dan-pelanggaran-ham-unknown/)
 
 Sampul menggunakan huruf  
 <b epub:type="se:name.visual-art.typeface">League Spartan</b>,  

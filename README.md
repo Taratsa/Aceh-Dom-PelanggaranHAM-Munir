@@ -37,7 +37,8 @@ The corrections were not compared against the scan images; they rest on SymSpell
 
 ## Metadata notes
 
-No `dc:source` is set: no catalog record or URL for this document was supplied. Add `source:` to `metadata.yaml` and `se.sources` to `book.json` when there is one.
+`dc:source` is the catalog page https://pustaka.taratsa.id/book/10-tulisan-munir-aceh-dom-dan-pelanggaran-ham-unknown/ (digitalisation from KontraS), in both editions (`metadata.yaml` `source`, `book.json` `se.sources`).
+The imprint, colophon and license pages (`se-imprint.md`, `se-colophon.md`, `se-license.md`) follow the wording of the Marsinah edition (github.com/Taratsa/Kekerasan-Penyidikan-Dalam-Kasus-Marsinah); only title, author, source phrase and release date differ.
 LCSH subjects were taken from id.loc.gov and have not been reviewed by an editor.
 
 ## Rights
